@@ -11,17 +11,16 @@ You just need to have a [canva](https://www.canva.com/) account then click on an
 
 #### Tempalte 2
 
-![Template 2](https://github.com/ahmadmardeni1/Canva/blob/main/Template%202.png)
+![Template 2](https://github.com/ahmadmardeni1/Canva/blob/main/Template_2.png)
 
 [Click here](https://www.canva.com/design/DAEZxTw0cjg/amyUyXjukHFvf98w7wxXCw/view?utm_content=DAEZxTw0cjg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) to edit the template.
 
 
 #### Tempalte 3
 
-![Template 3](https://github.com/ahmadmardeni1/Canva/blob/main/Template%203.png)
+![Template 5](https://github.com/ahmadmardeni1/Canva/blob/main/Template%205.png)
 
-[Click here](https://www.canva.com/design/DAEZxcpCC1c/BMx_CKPBK7Uj5s7sRSImLg/view?utm_content=DAEZxcpCC1c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) to edit the template.
-
+[Click here](https://www.canva.com/design/DAEZxUCNCPo/_S4BRub9hWrN--jvFIbNzw/view?utm_content=DAEZxUCNCPo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) to edit the template.
 
 #### Tempalte 4
 
@@ -32,11 +31,9 @@ You just need to have a [canva](https://www.canva.com/) account then click on an
 
 #### Tempalte 5
 
-![Template 5](https://github.com/ahmadmardeni1/Canva/blob/main/Template%205.png)
+![Template 3](https://github.com/ahmadmardeni1/Canva/blob/main/Template%203.png)
 
-[Click here](https://www.canva.com/design/DAEZxUCNCPo/_S4BRub9hWrN--jvFIbNzw/view?utm_content=DAEZxUCNCPo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) to edit the template.
-
-
+[Click here](https://www.canva.com/design/DAEZxcpCC1c/BMx_CKPBK7Uj5s7sRSImLg/view?utm_content=DAEZxcpCC1c&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) to edit the template.
 
 #### Tempalte 6
 
