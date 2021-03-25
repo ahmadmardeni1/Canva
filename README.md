@@ -1,7 +1,7 @@
 ### Hero image templates
 Here you can find some templates to use as a hero image for your article.
 
-You just need to have a [canva](https://www.canva.com/) account then click on any template you like to edit. When you are done please downlaod the image in a PNG format.
+You just need to have a [canva](https://www.canva.com/) account then click on any template you like to edit. When you are done please make sure to downlaod the image in a PNG format.
 
 #### Template 1
 
