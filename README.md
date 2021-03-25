@@ -25,7 +25,7 @@ You just need to have a [canva](https://www.canva.com/) account then click on an
 
 #### Tempalte 4
 
-![Template 4](https://github.com/ahmadmardeni1/Canva/blob/main/Template%204.png)
+![Template 4](https://github.com/ahmadmardeni1/Canva/blob/main/Template_4.png)
 
 [Click here](https://www.canva.com/design/DAEZxWoam4g/IdMccgGRnwbfEgkeEApGCw/view?utm_content=DAEZxWoam4g&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) to edit the template.
 
