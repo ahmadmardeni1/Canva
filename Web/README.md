@@ -13,7 +13,7 @@
 
 #### Tempalte 3
 
-![Template 5](/Web/Template%203.png)
+![Template 3](/Web/Template%203.png)
 
 [Click here](https://www.canva.com/design/DAEZxUCNCPo/_S4BRub9hWrN--jvFIbNzw/view?utm_content=DAEZxUCNCPo&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) to edit the template.
 
@@ -25,6 +25,6 @@
 
 #### Tempalte 5
 
-![Template 6](/Web/Template%205.png)
+![Template 5](/Web/Template%205.png)
 
 [Click here](https://www.canva.com/design/DAEZxTOf0CU/7QuCDbS0sqEfB3dx9HKRdg/view?utm_content=DAEZxTOf0CU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton&mode=preview) to edit the template.
