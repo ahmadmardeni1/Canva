@@ -26,7 +26,7 @@ This part will help the Section EngEd members to create amazing designs and prov
 - Click on *custom size*.
 - Make **Width=600** and **Height=400**.
 - Create the design you want.
-- When you are done, add the Section logo to the left or right corner of your design. [Click here](https://github.com/ahmadmardeni1/Test/blob/main/section%20logo.jpg) to download the logo.
+- When you are done, add the Section logo to the left or right corner of your design. [Click here](https://github.com/ahmadmardeni1/Canva/blob/main/section%20logo.jpg) to download the logo.
 
 #### Step 2. Make it a template
 After creating your design, you have to make it as a template. Click on *share* then *share the link to use as a template*. And copy the link.
@@ -52,6 +52,6 @@ Third, edit the **README.md** file inside that category to match the following e
 
 Click here (Template link) to edit the template.
 
-For live example [click here](https://github.com/ahmadmardeni1/Test/tree/main/Web).
+For live example [click here](https://github.com/ahmadmardeni1/Canva/tree/main/Web).
 
 Finally, create a pull request. Please make sure to add your [Slack](https://slack.com/) username to reach you in case of any edit needed.
