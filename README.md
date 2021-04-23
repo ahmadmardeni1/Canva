@@ -1,4 +1,4 @@
-![](https://github.com/ahmadmardeni1/Test/blob/main/hero%20image%20template.png)
+![](https://github.com/ahmadmardeni1/Canva/blob/main/hero%20image%20template.png)
 
 ### Hero image templates
 Here you can find some templates to use as a hero image for your article.
@@ -6,11 +6,11 @@ Here you can find some templates to use as a hero image for your article.
 You just need to have a [canva](https://www.canva.com/) account. Choose the category your article is related to, then click on any template you like to edit.
 
 The categories available for now:
-- [Web](https://github.com/ahmadmardeni1/Test/tree/main/Web).
-- [Mobile](https://github.com/ahmadmardeni1/Test/tree/main/Mobile).
-- [Cyber Security](https://github.com/ahmadmardeni1/Test/tree/main/Cyber-Security).
-- [Containers](https://github.com/ahmadmardeni1/Test/tree/main/Containers).
-- [Blockchain](https://github.com/ahmadmardeni1/Test/tree/main/Blockchain).
+- [Web](https://github.com/ahmadmardeni1/Canva/tree/main/Web).
+- [Mobile](https://github.com/ahmadmardeni1/Canva/tree/main/Mobile).
+- [Cyber Security](https://github.com/ahmadmardeni1/Canva/tree/main/Cyber-Security).
+- [Containers](https://github.com/ahmadmardeni1/Canva/tree/main/Containers).
+- [Blockchain](https://github.com/ahmadmardeni1/Canva/tree/main/Blockchain).
 
 #### Some points to follow:
 - Download the image in a PNG format.
@@ -34,7 +34,7 @@ After creating your design, you have to make it as a template. Click on *share* 
 Also, you need to download the design.
 
 #### Step 3. Fork this REPO
-![Fork REPO](https://github.com/ahmadmardeni1/Test/blob/main/FORKREPO.PNG)
+![Fork REPO](https://github.com/ahmadmardeni1/Canva/blob/main/FORKREPO.PNG)
 
 #### Step 4. Create a PR
 Once you have successfully forked over to your repository:
